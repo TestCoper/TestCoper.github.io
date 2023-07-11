@@ -1,5 +1,5 @@
 <img align="center" alt="GIF" width=55% src="https://i.imgur.com/8MupZHY.gif" />
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="center" alt="GIF" width="55%" src="https://i.imgur.com/8MupZHY.gif" />
 <br> 
 
 # Hello, world! 👋
