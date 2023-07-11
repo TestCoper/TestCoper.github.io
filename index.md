@@ -1,5 +1,4 @@
-<img align="center" alt="GIF" width=55% src="https://i.imgur.com/8MupZHY.gif" />
-<img align="center" alt="GIF" width="55%" src="https://i.imgur.com/8MupZHY.gif" />
+<img align="center" alt="GIF" width="55%" src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" />
 <br> 
 
 # Hello, world! 👋
